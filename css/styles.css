@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(116, 125, 140, 0.7);
+}
+
+.calcontainer {
+    margin-left: 0;
+    margin-top: 30px;
+    width: 316px;
+}
+
+.output {
+    text-align: right;
+    width: 274px;
+    height: 80px;
+    font-size: 26px;
+    background: #677559;
+}
+
+.bttn {
+    margin-bottom: 8px;
+    margin-left: 5px;
+    width: 59px;
+    height: 45px;
+    font-size: 22px;
+}
+
+.bttne {
+    width: 127px;
+}
